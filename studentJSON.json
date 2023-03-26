@@ -1,0 +1,26 @@
+{
+	"firstName": "Harry",
+	"secondName": "Potter",
+	"id": 202,
+	"active": true,
+	"grades": [3.3, 5.0, 3.0],
+	"yearsOld": 18,
+	"color": "green",
+	"schoolName": "Hogwarts",
+	"address": {
+		"country": "UK",
+		"city": "Hogsmid",
+		"zip": null,
+		"postal": false
+	},
+	"friends": [{
+			"1": "girl",
+			"name": "Ginny"
+		},
+		{
+			"2": "boy",
+			"name": "Ron"
+		}
+	]
+
+}

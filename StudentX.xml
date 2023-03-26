@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<root>
+	<student>
+		<firstName>Harry</firstName>
+		<secondName>Potter</secondName>
+		<id>202</id>
+		<active>true</active>
+		<grades>3.3</grades>
+		<grades>5</grades>
+		<grades>3</grades>
+		<age>18</age>
+		<eyes>green</eyes>
+		<school>Hogwarts</school>
+		<address>country: UK
+city: Hogsmid
+zip:
+postal: false
+</address>
+		<bio>Born Grew up with aunt Killed Tom Riddle
+</bio>
+		<friends>
+			<1>girl</1>
+		</friends>
+		<friends>
+			<2>boy</2>
+		</friends>
+	</student>
+</root>

@@ -1,0 +1,26 @@
+student:
+ firstName: Harry
+ secondName: Potter
+ id: 202
+ active: true
+ grades:
+ - 3.3
+ - 5
+ - 3
+ age: 18
+ eyes: green
+ school: Hogwarts
+ address : |
+  country: UK
+  city: Hogsmid
+  zip:
+  postal: false
+ bio: >
+  Born
+  Grew up with aunt
+  Killed Tom Riddle
+ friends:
+  - 1: girl
+   name: Ginny
+  - 2: boy
+   name: Ron
