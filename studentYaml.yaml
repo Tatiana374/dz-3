@@ -10,7 +10,7 @@ student:
  age: 18
  eyes: green
  school: Hogwarts
- address : |
+ address : 
   country: UK
   city: Hogsmid
   zip:
@@ -21,6 +21,6 @@ student:
   Killed Tom Riddle
  friends:
   - 1: girl
-   name: Ginny
+    name: Ginny
   - 2: boy
-   name: Ron
+    name: Ron
