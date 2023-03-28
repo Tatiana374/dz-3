@@ -11,18 +11,18 @@
 		<age>18</age>
 		<eyes>green</eyes>
 		<school>Hogwarts</school>
-		<address>country: UK
-city: Hogsmid
-zip:
-postal: false
-</address>
-		<bio>Born Grew up with aunt Killed Tom Riddle
-</bio>
+		<address>
+			<country>UK</country>
+			<city>Hogsmid</city>: 
+			<zip></zip>:
+			<postal>false</postal>
+		</address>
+		<bio>Born Grew up with aunt Killed Tom Riddle</bio>
 		<friends>
-			<1>girl</1>
+			<first>girl</first>
 		</friends>
 		<friends>
-			<2>boy</2>
+			<second>boy</second>
 		</friends>
 	</student>
 </root>
